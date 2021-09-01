@@ -16,7 +16,6 @@ public class EurekaNamingServerApplication {
 		logger.info("START: EurekaNamingServerApplication.main() ");
 		SpringApplication.run(EurekaNamingServerApplication.class, args);
 		logger.info("END: EurekaNamingServerApplication.main() ");
-
 	}
 
 }
