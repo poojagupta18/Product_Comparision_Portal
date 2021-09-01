@@ -5,7 +5,7 @@ import java.util.List;
 import com.sales.warehouse.transformingObject.ProductTo;
 
 public class WarehouseResponse {
-
+	
 	private String msg;
 	private int statusCode;
 	private int port;

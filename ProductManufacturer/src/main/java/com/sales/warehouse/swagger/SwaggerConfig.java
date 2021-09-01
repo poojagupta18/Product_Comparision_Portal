@@ -13,7 +13,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 @EnableSwagger2
 public class SwaggerConfig {
 
-	 public static final Contact DEFAULT_CONTACT = new Contact("", "", "poojagupta@gmail.com");
+	 public static final Contact DEFAULT_CONTACT = new Contact("", "", "xyz@gmail.com");
 	  public static final ApiInfo API_DEFAULT = new ApiInfo("Customer Portal","Product Price Comparison service deatails Documentation", "1.0", "urn:tos",
 	          DEFAULT_CONTACT, "Apache 2.0", "http://www.apache.org/licenses/LICENSE-2.0");
 

@@ -16,6 +16,11 @@ public class WarehouseProduct {
 	private String productName;
 	private int productPrice;
 
+	
+
+	public WarehouseProduct() {
+		
+	}
 
 	public int getId() {
 		return id;
